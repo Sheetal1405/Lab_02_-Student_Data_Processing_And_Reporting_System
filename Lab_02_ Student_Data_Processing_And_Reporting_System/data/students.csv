@@ -1,0 +1,19 @@
+student_id,name,department,gender,maths,science,english,attendance_pct,city
+101,Alice Johnson,CSE,Female,85.5,92.0,88.0,89.5,Mumbai
+102,Bob Smith,ECE,Male,78.0,82.5,75.0,92.0,Delhi
+103,Charlie Brown,CSE,Male,91.0,88.0,94.5,95.5,Bangalore
+104,Diana Prince,MECH,Female,67.5,70.0,72.0,78.0,Chennai
+105,Eve Davis,CSE,Female,95.0,97.5,92.0,98.0,Mumbai
+106,Frank Miller,ECE,Male,82.0,79.5,80.0,85.5,Pune
+107,Grace Lee,CIVIL,Female,74.5,76.0,78.5,82.0,Hyderabad
+108,Henry Wilson,CSE,Male,88.0,90.5,86.0,91.0,Delhi
+109,Iris Taylor,MECH,Female,71.0,68.5,74.0,73.5,Chennai
+110,Jack Anderson,ECE,Male,79.5,84.0,77.5,88.0,Bangalore
+111,Karen Thomas,CSE,Female,93.5,89.0,91.5,96.0,Mumbai
+112,Leo Martinez,CIVIL,Male,65.0,67.5,69.0,71.0,Pune
+113,Mia Rodriguez,CSE,Female,87.5,92.5,89.0,93.5,Delhi
+114,Noah Garcia,MECH,Male,76.0,73.5,78.0,80.0,Hyderabad
+115,Olivia White,ECE,Female,84.0,86.5,82.5,87.0,Bangalore
+116,Paul Harris,CSE,Male,90.0,88.5,92.5,94.0,Chennai
+117,Quinn Martin,CIVIL,Female,69.5,72.0,71.5,76.5,Mumbai
+118,Ryan Clark,ECE,Male,81.5,79.0,83.0,86.5,Pune

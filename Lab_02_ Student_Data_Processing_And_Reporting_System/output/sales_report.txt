@@ -1,0 +1,64 @@
+══════════════════════════════════════════════════════════════════════
+              BUSINESS SALES ANALYTICAL REPORT
+══════════════════════════════════════════════════════════════════════
+Generated: 2026-11-25 21:02:50
+──────────────────────────────────────────────────────────────────────
+
+1. OVERALL SALES METRICS
+──────────────────────────────────────────────────────────────────────
+  Total Orders         : 26
+  Total Revenue        : ₹2,579,350.00
+  Average Order Value  : ₹99,205.77
+  Total Quantity Sold  : 824
+
+2. REVENUE BY REGION
+──────────────────────────────────────────────────────────────────────
+ Region  Total Revenue  Orders  Avg Revenue
+   East      1042500.0       6    173750.00
+  North       767250.0       7    109607.14
+  South       421400.0       6     70233.33
+   West       303200.0       6     50533.33
+Unknown        45000.0       1     45000.00
+
+3. REVENUE BY CATEGORY
+──────────────────────────────────────────────────────────────────────
+   Category  Total Revenue
+Electronics      1537300.0
+  Furniture       858300.0
+ Stationery       156750.0
+    Unknown        27000.0
+
+4. PRODUCT PERFORMANCE
+──────────────────────────────────────────────────────────────────────
+  Top 5 Products:
+         Product  Total Revenue
+     Tablet Plus       480000.0
+  Monitor 27Inch       360000.0
+      Laptop Pro       275000.0
+   Standing Desk       176000.0
+Conference Table       135000.0
+
+  Best Product : Tablet Plus (₹480,000.00)
+  Worst Product: Paper Ream (₹0.00)
+
+5. MONTHLY SALES TREND
+──────────────────────────────────────────────────────────────────────
+year_month  total_revenue  order_count
+   2024-01       394500.0            3
+   2024-02       737000.0            4
+   2024-03       563000.0            4
+   2024-04       291500.0            4
+   2024-05       355900.0            4
+   2024-06       192450.0            5
+   2024-07        45000.0            1
+
+  Best Month: 2024-02 (₹737,000.00)
+
+6. KEY INSIGHTS
+──────────────────────────────────────────────────────────────────────
+  • Total revenue of ₹2,579,350.00 from 26 orders.
+  • Average order value is ₹99,205.77.
+  • Top performing region is East.
+  • Most popular category by order count: Electronics.
+
+══════════════════════════════════════════════════════════════════════

@@ -1,0 +1,42 @@
+══════════════════════════════════════════════════════════════════════
+                 DATA QUALITY ASSESSMENT REPORT
+══════════════════════════════════════════════════════════════════════
+Generated: 2026-11-25 21:02:50
+──────────────────────────────────────────────────────────────────────
+
+1. DATA COMPLETENESS
+──────────────────────────────────────────────────────────────────────
+  Rows before cleaning     : 27
+  Missing values before    : 7
+  Rows after cleaning      : 23
+  Missing values after     : 0
+
+2. DUPLICATES & ID CONFLICTS
+──────────────────────────────────────────────────────────────────────
+  Exact duplicate rows removed : 2
+  ID duplicate rows removed    : 2
+  ID conflicts detected        : 2
+    ID=102  (2 rows)  Conflicting: ['attendance_pct']
+    ID=108  (2 rows)  Conflicting: ['maths']
+
+3. INVALID / OUT-OF-RANGE VALUES
+──────────────────────────────────────────────────────────────────────
+  Columns with out-of-range or non-numeric values:
+    maths                 : 3 value(s) replaced with NaN
+    attendance_pct        : 1 value(s) replaced with NaN
+
+4. FIXES APPLIED
+──────────────────────────────────────────────────────────────────────
+  Text cells normalised (strip/case) : 31
+  Numeric cells imputed (median)  : 7
+  Text cells imputed (Unknown )  : 3
+
+5. QUALITY INSIGHTS
+──────────────────────────────────────────────────────────────────────
+  • Total data quality issues detected: 15.
+  • 2 exact duplicate row(s) removed.
+  • 2 ID duplicate(s) removed.
+  • 7 missing value(s) handled.
+  • 4 invalid/out-of-range value(s) corrected.
+
+══════════════════════════════════════════════════════════════════════

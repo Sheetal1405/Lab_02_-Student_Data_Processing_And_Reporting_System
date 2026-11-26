@@ -1,0 +1,30 @@
+order_id,product,category,region,quantity,unit_price,order_date
+1001,Laptop Pro,Electronics,North,5,55000.00,2024-01-15
+1002,Office Chair,Furniture,South,12,8500.00,2024-01-20
+1003,Notebook Set,Stationery,East,50,350.00,2024-01-25
+1004,Wireless Mouse,Electronics,West,30,1200.00,2024-02-03
+1005,Standing Desk,Furniture,North,8,22000.00,2024-02-10
+1006,Printer Ink,Stationery,South,100,450.00,2024-02-14
+1007,Tablet Plus,Electronics,East,15,32000.00,2024-02-18
+1008,Bookshelf,Furniture,West,6,12000.00,2024-03-05
+1009,Pen Drive 64GB,Electronics,North,45,800.00,2024-03-12
+1010,Filing Cabinet,Furniture,South,10,9500.00,2024-03-18
+1011,Monitor 27inch,Electronics,East,20,18000.00,2024-03-22
+1012,Sticky Notes,Stationery,West,200,120.00,2024-04-01
+1013,Keyboard Mech,Electronics,North,25,4500.00,2024-04-10
+1014,Conference Table,Furniture,South,3,45000.00,2024-04-15
+1015,Highlighter Pack,Stationery,East,80,250.00,2024-04-20
+1016,Webcam HD,Electronics,West,22,3200.00,2024-05-05
+1017,Executive Chair,Furniture,North,7,18500.00,2024-05-12
+1018,Stapler Set,Stationery,South,60,650.00,2024-05-18
+1019,SSD 1TB,Electronics,East,18,6500.00,2024-05-25
+1020,Whiteboard,Furniture,West,14,7200.00,2024-06-03
+1001,Laptop Pro,Electronics,North,5,55000.00,2024-01-15
+1002,  office chair  ,furniture,SOUTH,12,8500.00,2024-01-20
+1021,USB Hub,,North,-10,1500.00,2024-06-10
+1022,Desk Lamp,Furniture,East,15,,2024-06-15
+1023,Paper Ream,Stationery,West,0,500.00,
+1024,Mouse Pad,Electronics,South,abc,300.00,2024-06-20
+1025,,Stationery,North,25,450.00,2024-06-25
+1026,Headphones,Electronics,,18,2500.00,2024-07-01
+1002,Office Chair,Furniture,South,12,8500.00,2024-11-05
